@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3f8d07-49da-4083-baa0-349b7c75d094" name="Changes" comment="copy-paste">
-      <change afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/forms/test_click.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/actions/components/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/actions/components/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/fixtures/system/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/fixtures/system/browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/accounts/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/.flacke8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +44,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Igor\python-autotests-basic\module_6\pythonProject1\Users\Igor\python-autotests-basic\module_6" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.Python tests for test_click.TestClick.test_double_click">
     <configuration name="Python tests for test_async_wait.TestAsyncWait.test_wait_dialog" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -128,11 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1713194684238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="copy-paste">
+      <option name="closed" value="true" />
+      <created>1713272838820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713272838820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="copy-paste">
+      <option name="closed" value="true" />
+      <created>1713272947778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713272947778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="copy-paste" />
     <option name="LAST_COMMIT_MESSAGE" value="copy-paste" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
