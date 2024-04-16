@@ -1,8 +1,9 @@
 name: module_6
 dependencies:
-  -Python=3.11.5
-  -pip:
+  - python=3.11.5
+  - pip:
     - selenium
     - chromedriver-binary==103.0.5060.53.0
     - pytest
     - allure-pytest
+    - flake8
