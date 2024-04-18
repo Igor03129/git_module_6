@@ -2,8 +2,8 @@ import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
-# from src.actions.components.forms import fill_forms
-# from src.helpers.accounts_base import AccountsBase
+from src.actions.components.forms import fill_forms
+from src.helpers.accounts_base import AccountsBase
 
 @allure.feature('Full Accounts')
 @allure.story('Waiting page load')

@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3f8d07-49da-4083-baa0-349b7c75d094" name="Changes" comment="copy-paste">
+      <change beforePath="$PROJECT_DIR$/../../module_5.6/project" beforeDir="false" afterPath="$PROJECT_DIR$/../../module_5.6/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/logging.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/logging.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/fixtures/system/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/fixtures/system/browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/src" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/src/src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/accounts/test_async_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/accounts/test_async_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/forms/test_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/forms/test_click.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +44,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_dialog.executor": "Run",
+    "Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_dialog.executor": "Debug",
+    "Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_page_load.executor": "Run",
     "Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_types.executor": "Debug",
+    "Python tests.Python tests for test_click.TestClick.test_click.executor": "Debug",
     "Python tests.Python tests for test_click.TestClick.test_double_click.executor": "Debug",
+    "Python tests.Python tests for test_click.TestClick.test_fail_click.executor": "Run",
+    "Python tests.Python tests for test_wait.TestWait.test_wait_page_load.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -49,7 +61,7 @@
       <recent name="C:\Users\Igor\python-autotests-basic\module_6\pythonProject1\Users\Igor\python-autotests-basic\module_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_click.TestClick.test_double_click">
+  <component name="RunManager" selected="Python tests.Python tests for test_click.TestClick.test_fail_click">
     <configuration name="Python tests for test_async_wait.TestAsyncWait.test_wait_dialog" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -80,7 +92,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_click.TestClick.test_double_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_click.TestClick.test_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,15 +103,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_click.TestClick.test_double_click&quot;" />
+      <option name="_new_target" value="&quot;test_click.TestClick.test_click&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_click.TestClick.test_fail_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/forms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_click.TestClick.test_fail_click&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_wait.TestWait.test_wait_page_load" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Users/Igor/python-autotests-basic/module_6/pythonProject1/tests/accounts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wait.TestWait.test_wait_page_load&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_click.TestClick.test_double_click" />
-        <item itemvalue="Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_dialog" />
+        <item itemvalue="Python tests.Python tests for test_click.TestClick.test_fail_click" />
+        <item itemvalue="Python tests.Python tests for test_click.TestClick.test_click" />
+        <item itemvalue="Python tests.Python tests for test_wait.TestWait.test_wait_page_load" />
         <item itemvalue="Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_types" />
+        <item itemvalue="Python tests.Python tests for test_async_wait.TestAsyncWait.test_wait_dialog" />
       </list>
     </recent_temporary>
   </component>

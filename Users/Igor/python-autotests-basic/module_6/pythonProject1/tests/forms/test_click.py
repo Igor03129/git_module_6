@@ -10,6 +10,7 @@ class TestClick:
         selenium.get('https://h8xf8u.csb.app/demo/ButtonDemo.html')
         selenium.find_element(By.XPATH, '//button').click()
 
+
     def test_double_click(self, selenium):
         selenium.get('https://l8c7w2.csb.app/demo/ToastDemo.html')
         action_chains = webdriver.ActionChains(selenium)

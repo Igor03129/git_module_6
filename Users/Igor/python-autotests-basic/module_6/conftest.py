@@ -2,11 +2,11 @@ import logging.config
 from os import path
 
 
-lof_file_path = path.join(path.dirname(path.abspath(__file__)), "logging.ini")
-logging.config.fileConfig(lof_file_path)
+log_file_path = path.join(path.dirname(path.abspath(__file__)), "logging.ini")
+logging.config.fileConfig(log_file_path)
 
 pytest_plugins = [
-    "src.fixtures"
+    "src.py.fixtures"
 ]
 
 def pytest_addoption(parser):
